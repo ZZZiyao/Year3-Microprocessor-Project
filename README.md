@@ -1,8 +1,14 @@
 # Microprocessors
-Repository for Physics Year 3 microprocessors lab
+Repository for Physics Year 3 microprocessors project.
 
-A simple assembly program for PIC18 microprocessor
+Assembly programs for PIC18 microprocessor.
 
-Reads a table (message) from programme memory to data memory
+Input Morse code through a push button, dots and dashes identified by timer and shown on LCD.
 
-Initialises UART and writes a message (the table) to UART 
+Decode when pressing 'D' on Keypad, decoded pattern also shown on LCD.
+
+Clear pattern by pressing 'C' on Keypad.
+
+A [Project proposal](https://github.com/ZZZiyao/Year3-Microprocessor-Project/blob/main/Cycle_2_Proposal.pdf) was written.
+
+This repository is intended for academic and personal use ONLY.
