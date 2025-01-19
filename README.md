@@ -1,4 +1,4 @@
-# Microprocessors
+# Microprocessors Project
 Repository for Physics Year 3 microprocessors project.
 
 Assembly programs for PIC18 microprocessor.
